@@ -2,7 +2,7 @@
 ## Title: SpeakStone Narration - Forever Audio Pack 3 of 3
 ## Notes: WoW Forever quest, gossip and book audio, pack 3 of 3. Install all packs. Requires SpeakStone_Forever_Main.
 ## Author: Nerf, SpeakStone@beanw.co.uk
-## Version: 5.0.0
+## Version: 5.0.1
 
 ## RequiredDeps: SpeakStone_Forever_Main
 
