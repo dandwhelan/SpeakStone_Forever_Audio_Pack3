@@ -5,6 +5,7 @@ local T = {
 ["96931_description"]="14,78,128,166,203,242",
 ["96979_description"]="50,119,139,177,228",
 ["96999_description"]="24,61,99,132,149",
+["98251_completion"]="7,26,34",
 }
 if SpeakStone_RegisterSentenceTimings then
     SpeakStone_RegisterSentenceTimings(addonName, T, 10)
