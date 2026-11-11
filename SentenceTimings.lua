@@ -2,6 +2,7 @@
 -- sentence 2, 3, ... in 1/10 seconds (sentence 1 starts at 0). Parsed on demand by Subtitles.lua.
 local addonName = ...
 local T = {
+["81944_completion"]="67,158,234,268,343,369,377",
 ["93030_description"]="18,46,68,116",
 ["95926_description"]="8,32,92,120,136,156,188",
 ["96077_description"]="12,64,106,125,133,156,191",
@@ -216,6 +217,7 @@ local T = {
 ["98823_description"]="23,63,139,186",
 ["98824_completion"]="20,27,45,100,134,167,213,261",
 ["98824_description"]="n113,173,208,228,369",
+["98830_description"]="50,77,141,167,204",
 ["98887_completion"]="n20,36",
 ["98887_description"]="85,116",
 ["98887_progress"]="n",
