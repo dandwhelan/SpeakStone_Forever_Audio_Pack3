@@ -1,4 +1,6 @@
 SpeakStoneSoundLengths_Pack_SpeakStone_Forever_Audio_Pack3 = {
+    ["1838_completion.ogg"] = 4.14,
+    ["1838_progress.ogg"] = 3.33,
     ["1881_completion.ogg"] = 6.64,
     ["6128_completion.ogg"] = 28.46,
     ["6128_progress.ogg"] = 8.90,
