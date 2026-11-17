@@ -240,7 +240,7 @@ local T = {
 ["6521_progress"]="28,88,205",
 ["6522_completion"]="88,147",
 ["6522_description"]="34,78,102,149,172,213,247",
-["6522_progress"]="n54",
+["6522_progress"]="n41",
 ["6523_completion"]="n",
 ["6523_description"]="19,53,78,97",
 ["7889_progress"]="37,93,132",
@@ -300,7 +300,7 @@ local T = {
 ["96661_completion"]="46,99,150",
 ["96661_description"]="n32,51,108,139",
 ["96774_description"]="55,101,157,234",
-["96779_completion"]="n23,53,62",
+["96779_completion"]="n47,100,117",
 ["96779_description"]="n48,74,137,191,234",
 ["96781_description"]="66,114,159,224",
 ["96782_description"]="38,80,126,170,196",
@@ -817,7 +817,7 @@ local T = {
 ["99260_description"]="64,116,187,236",
 ["99267_completion"]="46,82,114,141,171",
 ["99411_completion"]="n26,63",
-["99411_description"]="n11,44,101,127,159,193,228,268,307",
+["99411_description"]="n18,48,93,115,148,178,210,253,289",
 ["99670_description"]="19,93,98",
 }
 if SpeakStone_RegisterSentenceTimings then
