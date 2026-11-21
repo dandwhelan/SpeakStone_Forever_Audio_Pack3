@@ -2058,9 +2058,9 @@ SpeakStoneSoundLengths_Pack_SpeakStone_Forever_Audio_Pack3 = {
     ["npc8139_gossip1.ogg"] = 3.23,
     ["npc8139_gossip2.ogg"] = 3.19,
     ["npc8379_gossip1.ogg"] = 10.42,
-    ["npc8576_gossip2.ogg"] = 21.56,
+    ["npc8576_gossip2.ogg"] = 18.25,
     ["npc8579_gossip3.ogg"] = 5.91,
-    ["npc8587_gossip2.ogg"] = 31.30,
+    ["npc8587_gossip2.ogg"] = 29.17,
     ["npc8610_gossip2.ogg"] = 2.73,
     ["npc9118_gossip2.ogg"] = 10.20,
 }

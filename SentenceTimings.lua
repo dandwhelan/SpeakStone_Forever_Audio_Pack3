@@ -1155,9 +1155,9 @@ local T = {
 ["npc7876_gossip1"]="40",
 ["npc7882_gossip1"]="20",
 ["npc8379_gossip1"]="60",
-["npc8576_gossip2"]="107,150",
+["npc8576_gossip2"]="93,128",
 ["npc8579_gossip3"]="15",
-["npc8587_gossip2"]="40,72,144,237",
+["npc8587_gossip2"]="34,58,130,210",
 ["npc9118_gossip2"]="42,62",
 }
 if SpeakStone_RegisterSentenceTimings then
