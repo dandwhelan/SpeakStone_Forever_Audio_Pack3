@@ -17,6 +17,7 @@ local voice = {
         Wo = "Worgen",
     },
     npc = {
+        [715] = "DwM",
         [733] = "HuF",
         [3344] = "OrF",
         [4568] = "UdF",
@@ -31,6 +32,7 @@ local voice = {
         [8379] = "HuM",
         [8576] = "OrM",
         [8579] = "TrM",
+        [9620] = "OrF",
     },
     quest = {
         [1881] = "UdF",
