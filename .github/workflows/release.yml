@@ -18,6 +18,15 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Split long clips into parts (Pause/Resume from the sentence)
+        # Clips over 15 s become <clip>_c1.ogg.. with ClipChunks.lua, in this checkout only: the repo keeps whole
+        # clips. The packager skips files git does not track, so the parts are staged (never committed).
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          python3 .github/chunk_clips.py . --in-place
+          git add -A
+
       - name: Run BigWigs Packager
         uses: BigWigsMods/packager@v2
         env:
